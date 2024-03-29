@@ -6,7 +6,7 @@ I'm Rutuja Patil, a sophomore, embarking on a thrilling journey in Computer Scie
  • 🎓 Academics: Currently navigating the fascinating realms of algorithms, data structures, and software development at Jaypee University of Engineering and Technology.
  • 💡 Passion: My curiosity for technology is boundless, and I thrive on exploring the latest trends and innovations in the world of computer science.
  • 🌐 Web Enthusiast: I don't just create websites; I craft experiences. From visually appealing web pages with HTML and CSS to adding dynamic elements with a sprinkle of JavaScript, I'm on a mission to create user experiences that leave a lasting impression.
- • 💻 Languages: Fluent in Java, Python, and JavaScript, with an insatiable hunger for learning new languages and frameworks.
+ • 💻 Languages: Fluent in C,C++ (5 ⭐ on HACKERRANK ), Python,HTML, CSS and JavaScript, with an insatiable hunger for learning new languages and frameworks.
  • 🛠️ Tech Toolbox: Git, VS Code, and a strong cup of coffee – my essentials for orchestrating productive coding symphonies.
 
 
