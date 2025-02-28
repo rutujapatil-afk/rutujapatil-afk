@@ -1,28 +1,25 @@
-Hello, I'm Rutuja Patil, a sophomore, embarking on an exciting journey in Computer Science Engineering.
-
 🚀 About Me
-• 🎓 Academics: Currently exploring the fascinating realms of algorithms, data structures, and software development at Jaypee University of Engineering and Technology.
-• 💡 Passion: My curiosity for technology knows no bounds! I am driven by a passion for uncovering insights from data and creating intelligent systems that solve real-world challenges.
-• 🧠 Focus: Having shifted my focus from web development, I am now delving deep into the fields of data analysis, machine learning, and artificial intelligence.
-• 💻 Languages: Fluent in C, C++, Python, HTML, CSS, and JavaScript,Node JS with an insatiable hunger to learn new tools and technologies.
-• 🛠️ Tech Toolbox: Git, VS Code, and a strong sense of curiosity – my essentials for crafting innovative solutions.
+Hi there! I'm Rutuja Patil, a passionate Computer Science and Engineering student at Jaypee University of Engineering and Technology. I thrive at the intersection of AI, Machine Learning, and Software Development, constantly building, optimizing, and deploying impactful solutions.
 
-🌱 Currently Learning
-I believe in lifelong learning, and I'm currently diving into:
-• 🤖 Machine Learning: Exploring supervised and unsupervised techniques to build predictive models and intelligent systems.
-• 📊 Data Analysis: Mastering data visualization and manipulation to uncover actionable insights.
+🔍 What I Do?
 
-👨‍💻 Projects
-I am actively working on projects focused on data science and machine learning, aiming to make meaningful contributions to these domains.
+🔬 Machine Learning & Data Science: Developing predictive models, optimizing algorithms, and extracting insights from data.
+💻 Software Development: Proficient in C, C++, Python, JavaScript, TypeScript, and full-stack web technologies.
+🤖 AI/ML Applications: Implementing deep learning, recommendation systems, and reinforcement learning for real-world solutions.
+📊 Data Analytics & Visualization: Turning data into insights with Pandas, Matplotlib, Seaborn, and Scikit-learn.
+🔧 Tech Stack & Tools
 
-📫 Let's Connect
-I am always open to collaborations, learning opportunities, or just a friendly chat. Connect with me on:
-• 💼 LinkedIn
+Programming: C | C++ | Python | JavaScript | TypeScript
+ML & AI: TensorFlow | Scikit-learn | Pandas | NumPy
+Development: Streamlit | Firebase | HTML/CSS | React | Next.js
+Tools: GitHub | Google Colab | VS Code
+🏆 Achievements
 
-Feel free to explore my repositories, and don't hesitate to reach out. Together, let's shape a smarter, data-driven future! 🚀
-
-
-
-
-
+AWS AI/ML Scholarship 2024 🎓
+Multiple Udemy & Udacity certifications in AI, C++, and Web Development.
+🌍 Let's Connect!
+📩 rutujakpatil2003@gmail.com
+🔗 LinkedIn- https://www.linkedin.com/in/rutuja-patil20/
+🐍 GitHub- https://github.com/rutujapatil-afk
+📊 HackerRank- https://www.hackerrank.com/profile/rutujapatil20
 
