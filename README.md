@@ -20,7 +20,7 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
 
 - **🧠 Machine Learning & AI**
   - Designed ML pipelines & models (Random Forest, ChemBERTa, PyTorch).
-  - Projects include **drug-likeness evaluation**, **CO₂ forecasting**, and **Instagram analytics**.
+  - Projects include **rocket launch feasibility**, **drug-likeness prediction**, **CO₂ forecasting**, and **Instagram analytics**.
   - Skilled in **TensorFlow, Scikit-learn, Hugging Face, PyTorch**.
 
 - **📊 Project Management**
@@ -52,27 +52,29 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
 
 ## 📂 Featured Projects
 
+### 🚀 [Rocket Launch Feasibility Prediction](https://github.com/rutujapatil-afk/Rocket-Launch-Feasibility-Prediction)
+> Binary classification | Logistic Regression, Random Forest, SVM  
+- Built an ML model to predict rocket launch feasibility based on weather and tech conditions.  
+- Performed data preprocessing, scaling, and model comparison.  
+- Delivered accurate go/no-go launch decisions using real mission parameters.
+
 ### 🧪 [Drug-Likeness Prediction Pipeline](https://github.com/rutujapatil-afk/An-End-to-End-Pipeline-for-Drug-Likeness-Evaluation)
-> Accuracy: 92% (Random Forest) | F1: 91.2% (ChemBERTa)
-- Used **RDKit** for 100+ molecular descriptors.
+> Accuracy: 92% (Random Forest) | F1: 91.2% (ChemBERTa)  
+- Used **RDKit** for 100+ molecular descriptors.  
 - Fine-tuned **ChemBERTa** for SMILES-based prediction using PyTorch.
 
 ### 🌿 [CO₂ Emission Forecasting @ GAIL](https://github.com/rutujapatil-afk/CO2-Emission-Forecasting)
-> R²: 99.89% | Emissions Reduced: 14.46%
-- Built high-precision model using **Random Forest**.
-- Led feature engineering for scalable optimization.
+> R²: 99.89% | Emissions Reduced: 14.46%  
+- Built a high-accuracy ML model using **Random Forest**.  
+- Engineered features and optimized emissions systems for sustainability.
 
 ### 📱 [Instagram Reach Analyzer](https://github.com/rutujapatil-afk/instagram_reach_analysis)
-- Developed ML-based reach optimization tool using **scikit-learn**.
-- Implemented end-to-end pipeline including EDA, feature engineering, and deployment.
+- Built a Streamlit ML app to predict and improve content reach.  
+- Used **scikit-learn** for modeling and **Pandas** for data manipulation.
 
 ### 🌦️ [Weather Trend Forecasting](https://github.com/rutujapatil-afk/Weather-Forecasting-Assessment)
-- Used ARIMA, Prophet, XGBoost to forecast global temperature trends.
-- Delivered data storytelling with clear visualizations.
-
-### 📊 [Google Trend Analysis](https://github.com/rutujapatil-afk/Google-Trend-Analysis)
-- Visualized and analyzed trends from Google Search data.
-- Used clustering and Prophet-based forecasting.
+- Applied **ARIMA, Prophet, XGBoost** for temperature forecasting.  
+- Focused on global warming patterns and predictive visualization.
 
 ---
 
@@ -83,27 +85,6 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
   <a href="https://www.linkedin.com/in/rutuja-patil20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rutujapatil-afk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/rutujapatil20"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujapatil-afk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujapatil-afk&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapatil-afk&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujapatil-afk&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutujapatil-afk&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
