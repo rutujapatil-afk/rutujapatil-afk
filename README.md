@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm Rutuja Patil, a final-year **Computer Science** student with a fierce love for **Machine Learning**, **AI**, and **Project Execution**. Whether it’s forecasting CO₂ emissions with 99.89% accuracy or leading teams through national hackathons, I thrive at the intersection of **code, collaboration, and clarity**.
+I'm Rutuja Patil, a final-year **Computer Science** student with a passion for **Machine Learning**, **AI**, and **Project Execution**. Whether it's forecasting CO₂ emissions with 99.89% accuracy or leading teams through national hackathons, I thrive at the intersection of **code, collaboration, and clarity**.
 
 ---
 
@@ -25,7 +25,7 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a fierce love f
 
 - **📊 Project Management**
   - Managed **timelines, tasks & cross-functional teams** using Trello, Asana, and MS Project.
-  - Created dashboards, reports, and Gantt charts to keep things on track (and people sane).
+  - Created dashboards, reports, and Gantt charts to keep projects on track.
   - Coordinated technical and non-technical efforts across sprints and deliverables.
 
 - **💡 Problem-Solving with Impact**
@@ -52,23 +52,31 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a fierce love f
 
 ## 📂 Featured Projects
 
-### 🧪 Drug-Likeness Prediction Pipeline
+### 🧪 [Drug-Likeness Prediction Pipeline](https://github.com/rutujapatil-afk/An-End-to-End-Pipeline-for-Drug-Likeness-Evaluation)
 > Accuracy: 92% (Random Forest) | F1: 91.2% (ChemBERTa)
 - Used **RDKit** for 100+ molecular descriptors.
 - Fine-tuned **ChemBERTa** for SMILES-based prediction using PyTorch.
 
-### 🌿 CO₂ Emission Forecasting @ GAIL
+### 🌿 [CO₂ Emission Forecasting @ GAIL](https://github.com/rutujapatil-afk/CO2-Emission-Forecasting)
 > R²: 99.89% | Emissions Reduced: 14.46%
 - Built high-precision model using **Random Forest**.
 - Led feature engineering for scalable optimization.
 
-### 📱 Instagram Reach Analyzer
+### 📱 [Instagram Reach Analyzer](https://github.com/rutujapatil-afk/instagram_reach_analysis)
 - Developed ML-based reach optimization tool using **scikit-learn**.
 - Implemented end-to-end pipeline including EDA, feature engineering, and deployment.
 
+### 🌦️ [Weather Trend Forecasting - PM Accelerator Assessment](https://github.com/rutujapatil-afk/Weather-Forecasting-Assessment)
+- Analyzed and forecasted global weather trends using ML and data science techniques.
+- Implemented ARIMA, Prophet, Random Forest, and XGBoost models for temperature trend forecasting.
+
+### 📊 [Google Trend Analysis](https://github.com/rutujapatil-afk/Google-Trend-Analysis)
+- Visualized search interest over time for selected topics.
+- Performed correlation analysis, clustering, and time-series forecasting using Prophet.
+
 ---
 
-## 💬 Let’s Connect
+## 💬 Let's Connect
 
 <p align="center">
   <a href="mailto:rutujakpatil2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
