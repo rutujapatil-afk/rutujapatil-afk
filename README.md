@@ -66,17 +66,17 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
 - Developed ML-based reach optimization tool using **scikit-learn**.
 - Implemented end-to-end pipeline including EDA, feature engineering, and deployment.
 
-### 🌦️ [Weather Trend Forecasting - PM Accelerator Assessment](https://github.com/rutujapatil-afk/Weather-Forecasting-Assessment)
-- Analyzed and forecasted global weather trends using ML and data science techniques.
-- Implemented ARIMA, Prophet, Random Forest, and XGBoost models for temperature trend forecasting.
+### 🌦️ [Weather Trend Forecasting](https://github.com/rutujapatil-afk/Weather-Forecasting-Assessment)
+- Used ARIMA, Prophet, XGBoost to forecast global temperature trends.
+- Delivered data storytelling with clear visualizations.
 
 ### 📊 [Google Trend Analysis](https://github.com/rutujapatil-afk/Google-Trend-Analysis)
-- Visualized search interest over time for selected topics.
-- Performed correlation analysis, clustering, and time-series forecasting using Prophet.
+- Visualized and analyzed trends from Google Search data.
+- Used clustering and Prophet-based forecasting.
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let’s Connect
 
 <p align="center">
   <a href="mailto:rutujakpatil2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -87,12 +87,19 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujapatil-afk&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutujapatil-afk&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujapatil-afk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapatil-afk&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujapatil-afk&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rutujapatil-afk&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
 ---
