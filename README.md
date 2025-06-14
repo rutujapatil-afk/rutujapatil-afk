@@ -90,9 +90,13 @@ I'm Rutuja Patil, a final-year **Computer Science** student with a passion for *
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujapatil-afk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapatil-afk&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rutujapatil-afk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujapatil-afk&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujapatil-afk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rutujapatil-afk&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub Streak" />
